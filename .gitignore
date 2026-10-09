@@ -1,0 +1,27 @@
+# >>> git_curator (tự sinh, đừng sửa trong khối này)
+*.csv
+*.ods
+*.tsv
+*.xlam
+*.xls
+*.xlsb
+*.xlsm
+*.xlsx
+*.xltm
+*.xltx
+*.CSV
+*.ODS
+*.TSV
+*.XLAM
+*.XLS
+*.XLSB
+*.XLSM
+*.XLSX
+*.XLTM
+*.XLTX
+/.python-version
+/.venv/
+/build/
+/dist/
+/scr/__pycache__/
+# <<< git_curator
